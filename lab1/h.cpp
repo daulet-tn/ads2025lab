@@ -13,10 +13,10 @@ int main(){
         }
     }
     if (a != 0){
-        cout << "YES" << endl;
+        cout << "NO" << endl;
     }
     else {
-        cout << "NO" << endl;
+        cout << "YES" << endl;
     }
     return 0;
 }
